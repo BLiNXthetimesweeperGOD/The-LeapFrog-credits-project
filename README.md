@@ -7,3 +7,5 @@ This project will follow a very specific folder structure:
 - "Confirmed" is for credits obtained through asking former employees
 
 There is no unconfirmed section and never will be because there's quite a few people in the LeapFrog community who obsessively make stuff up. They'd fill that section up with nonsense in a matter of weeks after finding it.
+
+When enough games are well-documented and have good lists of names, a basic website will be made for this.
