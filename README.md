@@ -1,4 +1,4 @@
-# The-LeapFrog-credits-project
+# The LeapFrog credits project
 A project to give all artists and development studios/companies who worked at or with LeapFrog the credit they deserve
 
 ### Folder structure
