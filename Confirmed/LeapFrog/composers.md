@@ -22,7 +22,7 @@
     - Kat's Math-errific Magic Show
     - Mr. Pencil Saves Doodleburg
     - Transformers Rescue Bots: Race to the Rescue
-    - LeapFrog Kart Racing (not Supercharged)
+    - LeapFrog Kart Racing (original release and Supercharged)
     - Disney Planes: Wings Around the Globe
     - Ultimate Spider-Man: Sinister Six Showdown
     - Trolls
