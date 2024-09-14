@@ -20,7 +20,7 @@
       - Menu
       - Quiz
     - Kat's Math-errific Magic Show
-    - Mr. Pencil Saves Doodleburg
+    - Mr. Pencil The Lost Colors of Doodleburg (Ultra eBook)
     - Transformers Rescue Bots: Race to the Rescue
     - LeapFrog Kart Racing (original release and Supercharged)
     - Disney Planes: Wings Around the Globe
