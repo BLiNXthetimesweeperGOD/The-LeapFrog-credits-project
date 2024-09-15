@@ -1,6 +1,10 @@
 # My Little Pony: Friendship is Magic
 
-Developed by Other Ocean Interactive. Credits are from the credits.xml file used to generate the in-game credits screen.
+Credits are from the credits.xml file used to generate the in-game credits screen.
+
+This was extracted with BloodRaynare's data.arc QuickBMS script on ResHax.
+
+Path from root folder: data/credits.xml
 
 ## Developer: Other Ocean Interactive
 
