@@ -45,6 +45,7 @@
 
 - Wolf Wein ([source](https://wolftrackaudio.com/bio/))
   - Leapster
+    - Cars Supercharged
     - Ratatouille
     - WALL-E
     - NASCAR
