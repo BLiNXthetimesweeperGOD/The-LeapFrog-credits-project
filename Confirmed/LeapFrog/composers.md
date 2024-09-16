@@ -9,7 +9,7 @@
       - Star Wars: Jedi Trials
       - Indiana Jones
 
-- Mark Bartscher (I got to talk to him on Discord alongside Kristin Miltner)
+- Mark Bartscher (He joined a community I'm in and shared some of these)
   - Leapster
     - Cosmic Math
     - Counting on Zero
