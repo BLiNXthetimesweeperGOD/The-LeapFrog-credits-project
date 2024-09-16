@@ -1,0 +1,40 @@
+# Composers known to have worked with LeapFrog
+
+- Wolf Wein ([source](https://wolftrackaudio.com/bio/))
+  - Leapster
+    - Ratatouille
+    - WALL-E
+    - NASCAR
+    - Sonic X
+  - Zippity (note: may require further confirmation - some franchise names had multiple Zippity games)
+    - Cars
+    - June's Twist 'n Twirl
+    - Handy Manny Fix It Up
+    - Darby's Honey Pot Jam
+    - Disney Princess
+    - Princess and the Frog
+    - Goofy's Fancy Dancing
+    - Mickey Says
+  - Explorer/LeapTV
+    - Letter Factory (done with Robb Mills)
+      - Menu
+      - Quiz
+    - Kat's Math-errific Magic Show
+    - Mr. Pencil The Lost Colors of Doodleburg (Ultra eBook)
+    - Transformers Rescue Bots: Race to the Rescue
+    - LeapFrog Kart Racing (original release and Supercharged)
+    - Disney Planes: Wings Around the Globe
+    - Ultimate Spider-Man: Sinister Six Showdown
+    - Trolls
+- Robb Mills ([source](https://robb-mills-azci.squarespace.com/leapfrog))
+  - Escape of the Sillies
+  - My Little Pony: Friendship is Magic
+  - Letter Factory (done with Wolf Wein)
+    - Alphabet
+    - Coloring Characters
+    - The Factory Floor
+    - Leaping Letters
+    - Word Whammy
+  - Puzzle Pals
+  - Adventure Stories (Ultra eBook)
+  - Octonauts
