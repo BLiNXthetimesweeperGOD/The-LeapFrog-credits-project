@@ -1,5 +1,48 @@
 # Composers known to have worked with LeapFrog
 
+- Chip Harris ([source (check the comments)](https://www.youtube.com/watch?v=lQWl8whAH1Q))
+    - Didj
+      - Nancy Drew
+      - SpongeBob SquarePants: Fists of Foam
+      - NickToons: Android Invasion
+      - Foster's Home For Imaginary Friends
+      - Star Wars: Jedi Trials
+      - Indiana Jones
+
+- Mark Bartscher (I got to talk to him on Discord alongside Kristin Miltner)
+  - Leapster
+    - Cosmic Math
+    - Counting on Zero
+    - Kindergarten
+    - Spider-Man: The Case of the Sinister Speller
+    - Top-Secret Personal Beeswax
+
+- Kristin Miltner ([source](https://kristinmiltner.com/leapfrog-is-so-retro/))
+  - Leapster
+    - 2nd Grade: Musical Menace
+    - Bratz World: The Jet Set
+    - Creature Create
+    - Cosmic Math
+    - Foster's Home for Imaginary Friends
+    - Leapster TV
+    - Letterpillar
+    - Letters on the Loose
+    - Number Raiders
+    - Word Chasers
+  - Didj
+      - System sound effects
+      - JetPack Heroes
+
+- Walter "Wally" Scharold ([source (check the comments)](https://www.youtube.com/watch?v=lQWl8whAH1Q))
+  - Didj
+      - System menus
+      - Didji Racing: Tiki Tropics
+      - JetPack Heroes
+      - Neopets: Quizara's Curse
+      - Sonic the Hedgehog
+      - Star Wars: the Clone Wars
+      - Super Chicks
+
 - Wolf Wein ([source](https://wolftrackaudio.com/bio/))
   - Leapster
     - Ratatouille
@@ -26,6 +69,7 @@
     - Disney Planes: Wings Around the Globe
     - Ultimate Spider-Man: Sinister Six Showdown
     - Trolls
+
 - Robb Mills ([source](https://robb-mills-azci.squarespace.com/leapfrog))
   - Escape of the Sillies
   - My Little Pony: Friendship is Magic
