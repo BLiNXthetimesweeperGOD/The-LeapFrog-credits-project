@@ -17,7 +17,7 @@
     - Spider-Man: The Case of the Sinister Speller
     - Top-Secret Personal Beeswax
    
-- Jared Emerson-Johnson
+- Jared Emerson-Johnson ([source](https://www.jaredemersonjohnson.com/awards))
   - Leapster
     - SpongeBob SquarePants Saves the Day
 
