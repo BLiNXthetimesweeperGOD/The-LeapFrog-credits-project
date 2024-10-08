@@ -16,6 +16,10 @@
     - Kindergarten
     - Spider-Man: The Case of the Sinister Speller
     - Top-Secret Personal Beeswax
+   
+- Jared Emerson-Johnson
+  - Leapster
+    - SpongeBob SquarePants Saves the Day
 
 - Kristin Miltner ([source](https://kristinmiltner.com/leapfrog-is-so-retro/))
   - Leapster
