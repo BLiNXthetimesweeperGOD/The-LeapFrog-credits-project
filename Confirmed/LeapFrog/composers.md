@@ -1,5 +1,10 @@
 # Composers known to have worked with LeapFrog
-
+- Brad Fuller ([source](https://soundcloud.com/bradfuller/kid-stuff-demo))
+    (to-do: figure out what exact products he worked on and list them all out here)
+    - LeapPad
+      - Phonics Program
+    - Leapster
+      - Reading with Phonics: Mole's Huge Nose (indirectly involved because some compositions were reused, just heavily modified)
 - Chip Harris ([source (check the comments)](https://www.youtube.com/watch?v=lQWl8whAH1Q))
     - Didj
       - Nancy Drew
