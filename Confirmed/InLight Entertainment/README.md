@@ -8,7 +8,7 @@
     - The Magic School Bus: Oceans
     - Wacky Weaver's Water Park
     - The Human Body: Captain Plasma's Adventure
-    - Sammy Submariener
+    - Sammy Submariner
     - Lula the Ladybug
     - Chug the Tiny Tugboat
     - Cha Cha Chicken
