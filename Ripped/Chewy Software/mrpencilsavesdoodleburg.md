@@ -1,6 +1,4 @@
-# Pet Pals 2: Best of Friends!
-
-note for applecuckoo - most of the staff are the same so using the PP2 credits as a template and filling in the diffs later
+# Mr. Pencil Saves Doodleburg
 
 ## Chewy Software
 
@@ -14,10 +12,10 @@ Paul Enright
 
 ### Programmers
 
-Alex De Vera
-Don Olmstead
-Quinn Hovey
-Jonathan Lessner
+Alex De Vera  
+Don Olmstead  
+Quinn Hovey  
+Jonathan Lessner  
 Erik Hove
 
 ### Lead Artist
@@ -26,15 +24,15 @@ Adam Augustyn
 
 ### Artists
 
-Andrew Phillips
-John Cortecero
-Pete McLennon
-Jim Hummel
+Andrew Phillips  
+John Cortecero  
+Pete McLennon  
+Jim Hummel  
 Keith Anderson
 
 ### Animators
 
-Valerie Morrison
+Valerie Morrison  
 Adam Harris
 
 ### Engineering Support
@@ -43,7 +41,7 @@ Jeffrey Wade
 
 ### Sound Effects and Music
 
-Ken Hale
+Ken Hale  
 Ron Staley
 
 ## Leapfrog
@@ -74,7 +72,7 @@ Michael Mattesi
 
 ### Learning Designers
 
-Tara Higgins
+Tara Higgins  
 Carolyn Jaynes
 
 ### Senior Audio Lead
@@ -91,17 +89,17 @@ Paul Pan
 
 ### Voice Talent
 
-Vegas Tripp
-Sydney Rainin
-Erik Braa
-Andrew Chaiken
-Melissa Hutchinson
-Christopher Vear
-Joe Canose
-Michael Mattesi
-Brad Carlton
-Chuck Wedge
-Lovica Callisti
+Vegas Tripp  
+Sydney Rainin  
+Erik Braa  
+Andrew Chaiken  
+Melissa Hutchinson  
+Christopher Vear  
+Joe Canose  
+Michael Mattesi  
+Brad Carlton  
+Chuck Wedge  
+Lovica Callisti  
 Stephen Lam
 
 ### Director Software QA
@@ -110,7 +108,7 @@ Greg Klein
 
 ### Software QA Lead
 
-Lance Nelson
+Lance Nelson  
 Nathan Rappaport
 
 ### Core Tester
@@ -199,19 +197,19 @@ LTRC
 
 ### Special Thanks
 
-Bill Chiasson
-Michael Dodd
-Craig Hendrickson
-Jeff Grant
-Sarah Shin
-Mike Chai
-Bill Campbell
-Mark Etnyre
-Mark Bartscher
-Dan Sorge
-Elain Bulloch
-Sarah Cox
-Doris Kyburz
+Bill Chiasson  
+Michael Dodd  
+Craig Hendrickson  
+Jeff Grant  
+Sarah Shin  
+Mike Chai  
+Bill Campbell  
+Mark Etnyre  
+Mark Bartscher  
+Dan Sorge  
+Elain Bulloch  
+Sarah Cox  
+Doris Kyburz  
 Deborah Evans
 
 and

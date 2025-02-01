@@ -16,16 +16,16 @@ Lisa Clarizio
 
 ### Artists
 
-Keith Anderson
-John Cortecero
-Pete McLennon
-Andrew Phillips
+Keith Anderson  
+John Cortecero  
+Pete McLennon  
+Andrew Phillips  
 Antonio Sanders
 
 ### Animators
 
-Valerie Morrison
-Adam Harris
+Valerie Morrison  
+Adam Harris  
 Dave Yablonski
 
 ### Lead Programmer
@@ -34,17 +34,16 @@ Paul Enright
 
 ### Programmers
 
-Voltaire Castro
-Alex de Vera
-Erik Hove
-Quinn Hovey
+Voltaire Castro  
+Alex de Vera  
+Erik Hove  
+Quinn Hovey  
 Jon Lessner
 
 ### Sound Effects/Music
 
-Ken Hale
+Ken Hale  
 Ron Staley
-
 
 ## Leap Frog
 
@@ -52,7 +51,7 @@ Ron Staley
 
 ### Producers
 
-Stephanie Peczon
+Stephanie Peczon  
 Alex Potts
 
 ### Associate Producer
@@ -75,7 +74,7 @@ Roger Noyes
 
 ### Game Designers
 
-James Morris
+James Morris  
 Laura Donahue
 
 ### Art & Animation
@@ -132,7 +131,7 @@ Feroz Khan
 
 ### Content and Learning Designers
 
-Clement Chau
+Clement Chau  
 Jody Sherman LeVos
 
 ### Studio Operations
@@ -189,7 +188,7 @@ Elaine Bulloch
 
 ### Legal
 
-Irene Chong
+Irene Chong  
 Carmelia Stanton
 
 ### Kid Lab
@@ -204,16 +203,16 @@ Erica Atencion
 
 ### Special Thanks
 
-John Barbour
-Hamid Butt
-Bill Campbell
-Mike Chai
-Michael Dodd
-Ada Duan
-Sherrie Gibbs
-Paul Gojenola
-Craig Hendrickson
-Susan Morrow
+John Barbour  
+Hamid Butt  
+Bill Campbell  
+Mike Chai  
+Michael Dodd  
+Ada Duan  
+Sherrie Gibbs  
+Paul Gojenola  
+Craig Hendrickson  
+Susan Morrow  
 Dan Sorge
 
 All the kids who helped test our game!
