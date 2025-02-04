@@ -99,4 +99,4 @@
   - Adventure Stories (Ultra eBook)
   - Octonauts
 
-[^1] yes, the credits on the 1st Playable games come somewhat scrambled straight from fs.arc. However, Chip Harris is listed directly after each game's respective sound design credit, so we're fairly sure he worked on these games.
+[^1]: yes, the credits on the 1st Playable games come somewhat scrambled straight from fs.arc. However, Chip Harris is listed directly after each game's respective sound design credit, so we're fairly sure he worked on these games.
